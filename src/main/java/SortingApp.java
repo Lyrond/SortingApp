@@ -11,7 +11,7 @@ public class SortingApp {
         sortNumbers(array);
 
         // Print the sorted values
-        System.out.println("Sorted values in ascending order:");
+        System.out.println("Sorted values in ascending order: ");
         for (int number : array) {
             System.out.print(number + " ");
         }
